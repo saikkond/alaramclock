@@ -218,7 +218,7 @@ function checkAlarms() {
       alert(`Alarm for ${currentTime} is ringing!`);
       alarm.remove(); // Remove the alarm after it rings
     }
-    console.log(alarm);
+    //console.log(alarm);
   });
 }
 
